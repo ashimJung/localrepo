@@ -1,3 +1,11 @@
 p{
     color: aquamarine;
 }
+h1{
+
+    color: aquamarine;
+    font-size: 100px;
+    font-family: cursive;
+    text-align: center;
+    background-color: darkslategrey;
+}
